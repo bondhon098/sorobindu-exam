@@ -1,0 +1,23 @@
+.googles-map{
+    background: #ffffff;
+    padding-top: 80px;
+}
+.foram-menu ul{
+    list-style: none;
+}
+.foram-menu ul li{
+    position: relative;
+}
+.foram-menu ul li span {
+	position: absolute;
+	top: 3px;
+	left: -27px;
+    color: #333333;
+    font-size: 20px;
+}
+.foram-menu ul li strong{
+    
+}
+.foram-menu ul li p{
+    color: #333333;
+}

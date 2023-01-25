@@ -1,0 +1,28 @@
+.about-us{
+    background: url(./hero-shape.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.about-us-text{
+    padding: 50px 0px;
+}
+.about-us-text h1{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 600;
+}
+.about-us-text ul{
+    padding-left: 0;
+    list-style: none;
+}
+.about-us-text ul li{
+    padding-right: 10px;
+    text-transform: capitalize;
+    color: #808080;
+    font-size: 17px;
+}
+.about-us-text ul li p{
+    border-left: 2px solid rgb(202, 183, 183);
+    padding-left: 10px;
+}
